@@ -23,7 +23,7 @@ class First extends Application {
 	{
             $this->load->model('Quotes'); //load the model
             //grab data from the first quote
-            $record = $this->quotes->first();
+            $record = $this->Quotes->first();
             $this->data = array_merge($this->data, $record);
             
             //set page body template and render
