@@ -3,6 +3,7 @@ Team Members
 **************
 
 XCVG - checked in
+
 rwgosse - checkin
 
 **************
@@ -11,6 +12,18 @@ Conventions
 
 Allman style braces
 tab indentations
+ucfirst (Upper case first) for classes and files
+lowercase for names elsewhere
+words separated by underscores
+underscore first for internal items
+
+**************
+Work Distribution
+**************
+
+Links 1,3,5,7 - XCVG
+
+Links 2,4,6,8 - rwgosse
 
 #######################
 Starter Webapp - Quotes
