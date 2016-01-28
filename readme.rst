@@ -1,3 +1,17 @@
+**************
+Team Members
+**************
+
+XCVG
+rwgosse
+
+**************
+Conventions
+**************
+
+Allman style braces
+tab indentations
+
 #######################
 Starter Webapp - Quotes
 #######################
