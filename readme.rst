@@ -3,7 +3,7 @@ Team Members
 **************
 
 XCVG
-rwgosse
+rwgosse - checkin
 
 **************
 Conventions
