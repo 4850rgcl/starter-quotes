@@ -41,6 +41,17 @@ class First extends Application {
             $this->data['pagebody'] = 'justone'; 
             $this->render();
         }
+        
+        function gimme($id)
+        {
+            $this->load->model('Quotes'); //load the model
+            $record = $this->Quotes->get($id);
+            $this->data = array_merge($this->data, $record);
+            
+            //set page body template and render
+            $this->data['pagebody'] = 'justone'; 
+            $this->render();
+        }
 
 }
 
