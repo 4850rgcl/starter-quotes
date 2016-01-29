@@ -1,7 +1,9 @@
 Newest changes at the top
 YYYY-MM-DD HH:MM comment
 
+
+2016-01-29 14:20 fixed link 4 (lock me up) updated routes.php and added shucks method to welcome.php
 2016-01-29 14:11 fixed link 3 (sleep) by adding route and controller method
-2016-01-28 13:02 fixed last link, added new controller, fixed changelog dates
+2016-01-29 13:02 fixed last link, added new controller, fixed changelog dates
 2016-01-28 15:29 fixed link 1 (first) by adding new controller
 2016-01-28 13:54 initial setup

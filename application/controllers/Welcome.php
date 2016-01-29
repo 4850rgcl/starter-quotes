@@ -33,6 +33,19 @@ class Welcome extends Application {
 
 		$this->render();
 	}
+        
+        function shucks()
+        {
+             $this->load->model('Quotes'); //load the model
+            //grab data from the last quote
+            $record = $this->Quotes->get("2");
+            $this->data = array_merge($this->data, $record);
+            
+            //set page body template and render
+            $this->data['pagebody'] = 'justone'; 
+            $this->render();
+            
+        }
 
 }
 
