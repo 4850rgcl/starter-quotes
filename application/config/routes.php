@@ -55,5 +55,7 @@ $route['dunno'] = function() {
 	die(); // and we don't have to go any further
 };
 
+$route['comp\d*\/.*'] = "wise/bingo";
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
