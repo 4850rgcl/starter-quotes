@@ -1,6 +1,8 @@
 Newest changes at the top
 YYYY-MM-DD HH:MM comment
 
+2016-01-29 15:18 fixed link 6 (dunno) by adding the code to routes and a picture of beaker.
+
 2016-01-29 14:40 fixed link 5 (gimme) by adding route and controller method
 2016-01-29 14:20 fixed link 4 (lock me up) updated routes.php and added shucks method to welcome.php
 2016-01-29 14:11 fixed link 3 (sleep) by adding route and controller method
