@@ -1,6 +1,8 @@
 Newest changes at the top
 YYYY-MM-DD HH:MM comment
 
+2016-01-29 15:52 fixed link 8 (wisebingo) by editing route.php with regex and creating wise.php with bingo method
+
 2016-01-29 15:18 fixed link 6 (dunno) by adding the code to routes and a picture of beaker.
 2016-01-29 15:11 fixed link 7 (bingo) by adding regexp route and new controller
 2016-01-29 14:40 fixed link 5 (gimme) by adding route and controller method
