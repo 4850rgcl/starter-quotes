@@ -8,7 +8,7 @@
  *
  * ------------------------------------------------------------------------
  */
-class First extends Application {
+class Last extends Application {
 
 	function __construct()
 	{
